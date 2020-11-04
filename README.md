@@ -18,5 +18,5 @@ Project management board: [Curriculum Development](https://github.com/dlab-berke
 
 [Milestones](https://github.com/dlab-berkeley/data-security-fundamentals/milestones?direction=asc&sort=due_date&state=open):
 - Dec 2020: [Initial Development Phase](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/1)
-- Jan 2020: [Internal Pilot for Consultants and Instructors](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/2)
-- Feb 2020: [Love Data Week Pilot](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/3)
+- Jan 2021: [Internal Pilot for Consultants and Instructors](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/2)
+- Feb 2021: [Love Data Week Pilot](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/3)
