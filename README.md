@@ -12,7 +12,7 @@ See also [issue tracker](https://github.com/dlab-berkeley/data-security-fundamen
 
 ## Project Status
 
-*STATUS:* Project kick-off 2020-10-21
+*STATUS:* 2020-11-09 Initial development phase starting, coordination happening in [slack #curriculum-development channel](http://dlab-berkeley.slack.com/messages/curriculum-development).
 
 Project management board: [Curriculum Development](https://github.com/dlab-berkeley/data-security-fundamentals/projects/1)
 
