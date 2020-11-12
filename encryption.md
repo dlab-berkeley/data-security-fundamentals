@@ -13,3 +13,4 @@ Mac, PC and Linux
 # How to Use
 
 # FAQ
+Full disc encryption later 
