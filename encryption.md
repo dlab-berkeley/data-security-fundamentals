@@ -7,17 +7,13 @@ Install enncryption software on personal laptop.
 Apply file based encryption tools in a research context.  
 
 # Why Use
-Researcher (including students!) are pulled to both extremes of the data security spectrum. On the one end, they can work with open, non-sensitive data. Sensitive, confidential and restricted use data, on the other hand, must be secured with care. <br />
+Researchers (including students!) are pulled to both extremes of the data security spectrum. On the one end, they often work with open, non-sensitive data. Sensitive, confidential and restricted use data, on the other hand, must be secured with care. <br />
 
 Encryption is an important way that you can help protect data you send, receive, and store. Encryption is the process that scrambles text so it can only be read by the person who has the decryption key.
 
+There are many encryption tools available. Today we are going to focus on veracrypt because it is officially supported by campus. We are also going to focus on encrypting data that is "at rest" as opposed to "in motion" or "active" data. Finally, we will focus on file level encryption. 
 
-
-
-Officially supported by campus. 
-At rest encryption. 
-Focus on file level encryption. 
-IRB/ISO/PI said you have to do this.  
+So why does this matter? Often, the Office for Protection of Human Subjects (IRB), the Information Security Office, or your PI said you have to. We are excited to teach you this skill that can be used for that purpose and in other aspects of your digial lives too.  
 
 # How to Setup
 Mac, PC and Linux. 
