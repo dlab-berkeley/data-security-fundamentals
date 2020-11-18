@@ -7,6 +7,13 @@ Install enncryption software on personal laptop.
 Apply file based encryption tools in a research context.  
 
 # Why Use
+Researcher (including students!) are pulled to both extremes of the data security spectrum. On the one end, they can work with open, non-sensitive data. Sensitive, confidential and restricted use data, on the other hand, must be secured with care. <br />
+
+Encryption is an important way that you can help protect data you send, receive, and store. Encryption is the process that scrambles text so it can only be read by the person who has the decryption key.
+
+
+
+
 Officially supported by campus. 
 At rest encryption. 
 Focus on file level encryption. 
