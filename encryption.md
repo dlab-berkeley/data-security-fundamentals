@@ -1,7 +1,7 @@
 See [discussion thread](https://github.com/dlab-berkeley/data-security-fundamentals/issues/9) for this module for curriculum development.
 
 # Learning Objectives
-For more details see: [Issue #14](https://github.com/dlab-berkeley/data-security-fundamentals/issues/14). 
+For more details see: [Issue #14](https://github.com/dlab-berkeley/data-security-fundamentals/issues/14). aslo: [Issue #14](https://github.com/dlab-berkeley/data-security-fundamentals/issues/18)
 Understand why and when to use file-based encryption. 
 Install enncryption software on personal laptop. 
 Apply file based encryption tools in a research context.  
