@@ -23,4 +23,6 @@ Project management board: [Curriculum Development](https://github.com/dlab-berke
 - [ ] Sep 2021: [Internal Pilot for Consultants and Instructors](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/2)
 
 ## Final Exam
-[![Final Exam](https://imgs.xkcd.com/comics/final_exam_2x.png)](https://xkcd.com/2385/)
+[![Final Exam](https://www.explainxkcd.com/wiki/images/0/05/final_exam.png)](https://www.explainxkcd.com/wiki/index.php/2385:_Final_Exam)
+
+([see explanation](https://www.explainxkcd.com/wiki/index.php/2385:_Final_Exam))
