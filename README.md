@@ -12,15 +12,15 @@ See also [issue tracker](https://github.com/dlab-berkeley/data-security-fundamen
 
 ## Project Status
 
-*STATUS:* 2021-10-06 planning for Fall development phase, coordination happening in [slack #securing-data channel](http://dlab-berkeley.slack.com/messages/securing-data).
+*STATUS:* 2022-01-26 planning for Spring development phase, coordination happening in [slack #securing-data channel](http://dlab-berkeley.slack.com/messages/securing-data).
 
 Project management board: [Curriculum Development](https://github.com/dlab-berkeley/data-security-fundamentals/projects/1)
 
 [Milestones](https://github.com/dlab-berkeley/data-security-fundamentals/milestones?direction=asc&sort=due_date&state=open):
 - [X] Dec 2020: [Initial Development Phase](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/1)
 - [X] Feb 2021: [Love Data Week Pilot](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/3)
-- [ ] Oct-Dec 2021: Fall Development Phase (needs milestone/project board updates)
-- [ ] Jan-Feb 2022: [Internal Pilot for Consultants and Instructors](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/2)
+- [ ] Jan-Feb 2022: Next Iteration Development Phase (needs milestone/project board updates)
+- [ ] Mar-Apr 2022: [Internal Pilot for Consultants and Instructors](https://github.com/dlab-berkeley/data-security-fundamentals/milestone/2)
 
 ## Final Exam
 [![Final Exam](https://www.explainxkcd.com/wiki/images/0/05/final_exam.png)](https://www.explainxkcd.com/wiki/index.php/2385:_Final_Exam)
