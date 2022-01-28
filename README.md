@@ -1,12 +1,13 @@
-# data-security-fundamentals
-Data Security Fundamentals
+# Data Security Fundamentals
 
-## DESCRIPTION
+## Description
 
-3-part workshop (either our standard 3-hour long workshop, or in three 1-hour segments) that covers:
+Multi-part workshop series that covers:
 - File and disk encryption (Veracrypt) (see [discussion thread](https://github.com/dlab-berkeley/data-security-fundamentals/issues/9))
 - Password management and sharing (LastPass) (see [discussion thread](https://github.com/dlab-berkeley/data-security-fundamentals/issues/10))
 - Multi-Factor Authentication (Google Authenticator/Duo/YubiKey/etc) (see [discussion thread](https://github.com/dlab-berkeley/data-security-fundamentals/issues/11))
+- Hashing to protect PII (Personally Identifiable Information)
+- Data rounding techniques to pass disclosure review
 
 See also [issue tracker](https://github.com/dlab-berkeley/data-security-fundamentals/issues), especially [help wanted](https://github.com/dlab-berkeley/data-security-fundamentals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) items.
 
